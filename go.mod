@@ -15,13 +15,12 @@ require (
 	github.com/lib/pq v1.3.1-0.20200116171513-9eb3fc897d6f
 	github.com/sirupsen/logrus v1.8.0
 	github.com/speps/go-hashids/v2 v2.0.1
-	github.com/stretchr/testify v1.5.1
+	github.com/stretchr/testify v1.7.0
 	go.opencensus.io v0.22.3
 	golang.org/x/net v0.0.0-20200520182314-0ba52f642ac2
 	google.golang.org/api v0.26.0 // indirect
 	google.golang.org/genproto v0.0.0-20200527145253-8367513e4ece
 	google.golang.org/grpc v1.29.1
-	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
 
 replace (
